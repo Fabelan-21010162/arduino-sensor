@@ -57,7 +57,7 @@ Proyek ini memanfaatkan sensor ultrasonik HC-SR04 untuk mendeteksi keberadaan ob
 
 
 
-## Sketch Code Program:
+## Codingan Program:
 
 ```cpp
 const int pinSensor = 3;
