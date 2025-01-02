@@ -53,7 +53,7 @@ Proyek ini memanfaatkan sensor ultrasonik HC-SR04 untuk mendeteksi keberadaan ob
 
 ## Skema Gambar Sirkuit:
 
-![Neat](https://github.com/user-attachments/assets/acf723ee-8832-4bd9-afd1-d13451949d71)
+![t725 (1)](https://github.com/user-attachments/assets/120eebd2-dd05-42c0-9e52-54f25d8543d7)
 
 
 
